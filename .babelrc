@@ -1,0 +1,8 @@
+{
+  "plugins": [
+    "react-require",
+    "babel-plugin-react-css-modules-sass",
+    "@babel/transform-runtime",
+    // "babel-plugin-react-svg"
+  ]
+}  
